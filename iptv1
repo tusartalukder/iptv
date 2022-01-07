@@ -1,16 +1,18 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Colors Bangla
+http://208.86.19.21/904.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD
-http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla L2
-http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
+http://208.86.19.21/908.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla
+http://208.86.19.21/906.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" , DeepTo TV
 http://bciptv.net:8082/depto-bangla/tracks-v1a1/mono.m3u8?token=63d3178a1d06a985c8dcf994b7545dd6df5f5d86-46623aef6b139036ee17aecb15ed2e10-1641584934-1641574134
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Deepto TV1
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , 1. BTV World
 http://103.106.2.149:13456/btv_world.m3u8
@@ -106,7 +108,6 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/shangsadbangladesh.jpg" , Sangsad Bangladesh (BDIX6)
 http://103.106.2.149:13456/sangsad.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://dnc.techtunes.io/tDrive/tuner/kripaparthi/495354/Peace-TV-Bangla.jpg" , Peace TV Bangla
 http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" , Jalsha Movies HD
@@ -117,8 +118,6 @@ http://14.199.164.20:4001/play/a0j5/index.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://m.imgur.com/LeIa06D.png" , ABP Anando
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" , NASA TV (akamai)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -148,6 +147,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" , Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" , HBO+
+http://213.151.233.20:8000/dna-6129-tv-pc/hls/4001v102.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
 http://208.86.19.21:80/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" , Dabang TV
@@ -265,7 +267,6 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" ,  Cartoon MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/de/fc/23/defc2375723ec0e5d75ad1c7595e7dce.jpg" , Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
